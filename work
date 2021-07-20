@@ -1,0 +1,11 @@
+    <nav>
+              <ul>
+                  <li class="logo"><img src="img/logo1.png"></li>
+                  <li> <a href="#home">HOME</li></a>
+                  <li><a href="#about">ABOUT</li></a>
+                  <li><a href="#services">SERVICES</li></a>
+                  <li><a href="#blog">BLOG</li></a>
+                  <li><a href="#contacts">CONTACT</li></a>
+              </ul> 
+
+           </nav>
